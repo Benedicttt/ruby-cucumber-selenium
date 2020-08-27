@@ -4,6 +4,8 @@ Before '@GUI' do |scenario|
 end
 
 After '@GUI' do
-  screenshot
-  DRIVER.quit
+    screenshot
+    DRIVER.quit
+  rescue
+    FRIVER.close
 end

@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63e44d04-572b-44f3-8889-3084fc3347f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/features/GUI/test2.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/GUI/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/GUI/test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/support/hook.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/hook.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report_files/screen-2020-08-28_01-21-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report_files/screen-2020-08-28_01-21-53.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,17 +30,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/feature/step_definitions/API" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/GUI" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/feature/helpers" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/GUI" />
+      <recent name="$PROJECT_DIR$/feature/step_definitions/API" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/feature" />
       <recent name="$PROJECT_DIR$/feature/support" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/feature/step_definitions/API" />
-      <recent name="$PROJECT_DIR$" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/feature/helpers" />
       <recent name="$PROJECT_DIR$/feature" />
       <recent name="$PROJECT_DIR$/feature/support" />
     </key>
@@ -94,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598563652048</updated>
       <workItem from="1598563653687" duration="2391000" />
-      <workItem from="1598566102618" duration="1105000" />
+      <workItem from="1598566102618" duration="1640000" />
     </task>
     <servers />
   </component>

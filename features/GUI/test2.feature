@@ -2,11 +2,11 @@
 # language: en
 
 @GUI
-  Feature: New test 1
-    Scenario: New test 1
+  Feature: New test 2
+    Scenario: New test 2
       Given open page http://goolge.com
       When create screenshot
-      And input to search line "cucumber ruby"
+      And input to search line "cucumber ruby 2"
       And push a keyboard "Enter"
       When create screenshot
       Then click button "Search"
