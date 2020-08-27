@@ -3,6 +3,9 @@
 
 @GUI
   Feature: New test 2
+    Background: Set timeout
+      Given set timeout 25
+
     Scenario: New test 2
       Given open page http://goolge.com
       When create screenshot

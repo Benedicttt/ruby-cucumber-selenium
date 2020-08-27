@@ -2,7 +2,6 @@ Given(/^open page ([^"]*)$/) do |url|
   DRIVER.get(url)
 end
 
-
 When(/^create screenshot$/) do
   screenshot
 end
@@ -21,4 +20,8 @@ end
 
 Then(/^block searched is visible$/) do
   expect(DRIVER.find_element(:id, 'search').displayed?).to be true
+end
+
+Given(/^set timeout (\d+)$/) do |seconds|
+  DRIVER.manage.timeouts.implicit_wait = seconds
 end
