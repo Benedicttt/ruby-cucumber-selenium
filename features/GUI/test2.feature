@@ -9,7 +9,7 @@
     Scenario: New test 2
       Given open page http://goolge.com
       When create screenshot
-      And input to search line "cucumber ruby 2"
+      And input to search line "cucumber ruby ruby"
       And push a keyboard "Enter"
       When create screenshot
       Then click button "Search"

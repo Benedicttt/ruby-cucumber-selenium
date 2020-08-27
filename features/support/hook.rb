@@ -7,5 +7,5 @@ After '@GUI' do
     screenshot
     DRIVER.quit
   rescue
-    FRIVER.close
+    DRIVER.close
 end

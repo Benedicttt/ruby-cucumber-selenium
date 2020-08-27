@@ -13,6 +13,8 @@ Run in console:
 parallel tests: $ _**`parallel_cucumber features/GUI -n 2 -o "--tags '@GUI'"`**_
 
 parallel tests headless: $ _**`HEADLESS=headless  parallel_cucumber features/GUI -n 2 -o "--tags '@GUI'"`**_
+
+cucumber html report local: $ _**`cucumber  features --format html --out reports.html`**_
 ___
 Require:
 

@@ -1,1 +1,1 @@
-default: --format pretty --color --publish
+default: --format pretty --color

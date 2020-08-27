@@ -1,2 +1,4 @@
 .idea
 ./report_files/*.*
+report_files
+reports.html
