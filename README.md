@@ -10,9 +10,9 @@ _`$ cucumber`_
 ___
 Run in console:
 
-parallel tests: $ **`parallel_cucumber features/GUI -n 2 -o "--tags '@GUI'"`**
+parallel tests: $ _**`parallel_cucumber features/GUI -n 2 -o "--tags '@GUI'"`**_
 
-parallel tests headless: $ **`HEADLESS=headless  parallel_cucumber features/GUI -n 2 -o "--tags '@GUI'"`**
+parallel tests headless: $ _**`HEADLESS=headless  parallel_cucumber features/GUI -n 2 -o "--tags '@GUI'"`**_
 ___
 Require:
 
