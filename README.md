@@ -2,6 +2,13 @@
 * by Sergey Kievskiy
 
 ___
-######$ bundle
-######$ cucumber
+Run in console
 
+_`$ bundle`_
+
+_`$ cucumber`_
+
+___
+Require:
+
+ruby 2.3+
