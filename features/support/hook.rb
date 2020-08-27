@@ -3,7 +3,7 @@ Before '@GUI' do |scenario|
   DRIVER.manage.window.size = Selenium::WebDriver::Dimension.new(1920, 1200)
 end
 
-After '@GUI2' do
+After '@GUI' do
   screenshot
   DRIVER.quit
 end
